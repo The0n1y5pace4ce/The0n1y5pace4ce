@@ -1,4 +1,4 @@
-<h1>Hello! Im TheSpaceAce or Ace (a.k.a. Augu)</h1>
+<h1>Hello! Im TheSpaceAce or Ace</h1>
 <p align="center">I am a simple guy who loves space and coding</p>
 <!-- <h1>Technologies</h1>
 <p align="center">
