@@ -1,4 +1,4 @@
-![My Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=The0n1y5pace4ce&show_icons=true&include_all_commits=true&theme=onedark&countPrivate=true&title_color=qwerty&text_color=328BAD)
+![My Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=The0n1y5pace4ce&show_icons=true&include_all_commits=true&theme=onedark&countPrivate=true&title_color=qwerty&text_color=328BAD&border_color=#AD2E24)
 
 ![My Language Stats](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=the0n1y5pace4ce&layout=compact&theme=dark&countPrivate=true)
 
