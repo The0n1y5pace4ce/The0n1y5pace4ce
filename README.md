@@ -16,3 +16,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=the0n1y5pace4ce&repo=jebediah-kerman&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://discord.gg/rk7cVyk"><img src="https://discordapp.com/api/guilds/868979279914999808/widget.png" alt="Discord server"/></a>
+[![Discord Server](https://discordapp.com/api/guilds/868979279914999808/widget.png)](https://discord.gg/AM787M44au)
