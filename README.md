@@ -1,7 +1,8 @@
-###Hello!
+### Hello!
 
-###Im TheSpaceAce, or Ace
-###Im a massive space fan, who is currently learning Javascript and Typescript, I also hope to soon learn python
+### Im TheSpaceAce, or Ace
+
+### Im a massive space fan, who is currently learning Javascript and Typescript, I also hope to soon learn python
 
 ###My GitHub Stats!
 
