@@ -18,3 +18,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=the0n1y5pace4ce&repo=valbot&theme=aura)](https://github.com/The0n1y5pace4ce/valbot)
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
