@@ -5,6 +5,13 @@
 
 ### I'm a massive space fan, who is currently learning Javascript and Typescript, I also hope to soon learn python
 
+<p align="center">
+  <a href="https://www.youtube.com/c/thespaceace2107"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/theonlyspaceace"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;</a>
+</p>
+
 
 ### My GitHub Stats!
 
@@ -13,9 +20,10 @@
 
 ![My Language Stats](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=the0n1y5pace4ce&layout=compact&theme=dark&countPrivate=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=the0n1y5pace4ce&repo=thespaceace.space&theme=aura)](https://github.com/The0n1y5pace4ce/thespaceace.space)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=the0n1y5pace4ce&repo=thespaceace.space&theme=aura)](https://github.com/The0n1y5pace4ce/thespaceace.space) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=the0n1y5pace4ce&repo=valbot&theme=aura)](https://github.com/The0n1y5pace4ce/valbot)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=the0n1y5pace4ce&repo=valbot&theme=aura)](https://github.com/The0n1y5pace4ce/valbot)
+
+
 
 <!-- ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
 
