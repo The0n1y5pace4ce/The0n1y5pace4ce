@@ -1,9 +1,4 @@
-### Hello!
-
-
-### I'm TheSpaceAce, or Ace
-
-### I'm a massive space fan, who is currently learning Javascript and Typescript, I also hope to soon learn python
+### Hello, I'm TheSpaceAce, or TheOnlySpaceAce, or just ace, im an intermidiate javascript/typescript developer, as well as some basic knowledge in css, HTML, C# and python
 
 <p align="center">
   <a href="https://www.youtube.com/c/thespaceace2107"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
