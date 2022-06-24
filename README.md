@@ -20,6 +20,8 @@
 
 ### My GitHub Stats!
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ![My Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=The0n1y5pace4ce&show_icons=true&include_all_commits=true&theme=calm&countPrivate=true&title_color=qwerty&text_color=328BAD&border_color=#AD2E24)
 
