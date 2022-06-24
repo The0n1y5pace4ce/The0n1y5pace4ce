@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+TheSpaceAce!;HTML+Coder;JavaScript+Coder;Python+Coder;Talk+to+me+on+my+discord!">
+
 ### Hello, I'm TheSpaceAce, or TheOnlySpaceAce, or just ace, im an intermidiate javascript/typescript developer, as well as some basic knowledge in css, HTML, C# and python
 
 <p align="center">
