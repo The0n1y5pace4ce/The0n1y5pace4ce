@@ -9,6 +9,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;</a>
 </p>
 
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+
 <p align="center">
   <a href="https://www.youtube.com/c/thespaceace2107?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCMldAiUDEt53cUo-Qk6F3Rw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
