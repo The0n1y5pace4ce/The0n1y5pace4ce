@@ -9,7 +9,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;</a>
 </p>
 
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> <img src="https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white" />
 
 <p align="center">
   <a href="https://www.youtube.com/c/thespaceace2107?sub_confirmation=1">
